@@ -1,32 +1,36 @@
 [
-    {
-      "question": "In Java, how many bytes is a long?",
-      "options": [
-        "4 bytes",
-        "8 bytes",
-        "16 bytes",
-        "32 bytes",
-        "64 bytes"
-      ],
-      "correct": 1,
-      "explanation": "A long is 8 bytes in Java.",
-      "metadata": [
-        {
-          "id": "1",
-          "type": "lookup||study",
-          "sources": {
-            "books": [
-              {
-                "type": "book",
-                "author": "oreilly/bovet+cesati",
-                "title": "understanding-the-linux-kernel",
-                "section": "ch01-introduction",
-                "page": "n/a"
-              }
-            ],
-            "websites": []
-          }
+  {
+    "question": "What is a inode device ID?",
+    "options": [
+      "foo",
+      "bar",
+      "foobar",
+      "barfoo"
+    ],
+    "correct": 1,
+    "explanation": "Lorem Ipsum something something darkside.",
+    "metadata": [
+      {
+        "id": "1",
+        "type": "lookup||study",
+        "tags": [
+          "linux",
+          "kernel",
+          "2.6"
+        ],
+        "sources": {
+          "books": [
+            {
+              "type": "book",
+              "author": "oreilly/bovet+cesati",
+              "title": "understanding-the-linux-kernel",
+              "section": "ch01-introduction",
+              "page": "n/a"
+            }
+          ],
+          "websites": []
         }
-      ]
-    }
-  ]
+      }
+    ]
+  }
+]

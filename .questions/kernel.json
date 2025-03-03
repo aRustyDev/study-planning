@@ -1,0 +1,1669 @@
+[
+    {
+      "question": "What is a inode device ID?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What fields are included in the inode structure?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "How are the Hard links counted in the inode structure?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "How are Hard links determined to exist by the inode?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "Why is it important to keep track of Hard links?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What kind of Time Stamps are used in the inode structure?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "How many binary access flags exist for linux files?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "what are the binary access flags for linux files?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What binary access flags are considered 'additional' for linux files?", 
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What does the SUID bit do?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What does the SGID bit do?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What does the Sticky bit do?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What happens when a user accesses the contents of either a regular file or a directory?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What is a file descriptor?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "what does a file descriptor represent?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What does a file descripter contain?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What is a file pointer?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "Does a file pointer point to the spot your cursor will be when you open a file? Or is it a pointer to the spot of the file to append to?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "Can the kernel function pointers in an open file object be used to map possible permission paths?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to create multiple file descriptors using the same open file object from within the same process; How can you view this?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": "experiment",
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What happens when multiple processes are trying to access the same file?; is there a difference between linux 2.6 and linux +3.0?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What does the 'flock()' function do?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What is the 'creat()' function? (is it a typo?)",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "How is 'creat()' different from 'open()'?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "How are Dev File & Named Pipes different from regular files?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "Why are Dev File & Named Pipes 'usually' accessed sequentially?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "How is 'lseek()' different from 'read()' and 'write()'?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What are the normal execution states of a process?",
+      "options": [
+        "privileged",
+        "unprivileged",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What are kernel routines?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What are some exampes of kernel routines that manage processes? (ie create, delete, sync, etc)",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What are the characteristics of kernel threads?",
+      "options": [
+        "run in kernel mode",
+        "run in kernel address space",
+        "Do not interact with users",
+        "Do not require terminal devices",
+        "Usually created during startup and dies during shutdown"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "Place the steps of the user space to kernel space transition in the correct order",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What ways can kernel routine be activated?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "20"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What are interrupt signals, and what emits them?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "20"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What can emit an exception signal to the kernel?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "20"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What is an interrupt handler?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "20"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What is a process descriptor?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What content does a process descriptor contain?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "Can you see/interact with a process descriptor?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What kind of 'events' will a non-executing process wait for?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "Can a process descriptors fields be modified manually? (ie attacked)",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What are process descriptor queues? why are they used?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What does it mean for a kernel to be reentrant?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What makes a kernel reentrant?",
+      "options": [
+        "opt-1: write a function that only modify local variables (no global data structures; ie reentrant functions)",
+        "opt-2: use locking mechanisms to ensure that only one process can execute a non-reentrant function at a time",
+        "a reentrant kernel is able to suspend the current process running, even if the process is running in kernel mode",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21+22"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What are some examples of realtime kernels?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "When would a realtime kernel be useful?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "21"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "How does kernel reentrancy affect the organization of the kernel?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "22"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "what is a 'kernel control path'?",
+      "options": [
+        "denotes the sequence of instructions executed by the kernel to handle a system call, interrupt, or exception",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What events will cause the CPU to interleave kernel control paths?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "22"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    }
+  ]
