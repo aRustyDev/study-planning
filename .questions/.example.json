@@ -8,14 +8,25 @@
         "32 bytes",
         "64 bytes"
       ],
-      "correct": 1
-    },
-    {
-      "question": "True or False: A string is a primitive datatype in Java.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct": 1
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": "lookup||study",
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "n/a"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
     }
   ]
