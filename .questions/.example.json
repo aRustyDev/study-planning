@@ -1,0 +1,21 @@
+[
+    {
+      "question": "In Java, how many bytes is a long?",
+      "options": [
+        "4 bytes",
+        "8 bytes",
+        "16 bytes",
+        "32 bytes",
+        "64 bytes"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "True or False: A string is a primitive datatype in Java.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    }
+  ]
