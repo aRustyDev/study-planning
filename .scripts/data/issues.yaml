@@ -1,0 +1,1989 @@
+---
+issues:
+  # - title: Issue Title
+  #   body-file: Issue Body
+  #   milestone: <milestone name>
+  #   project: study-planning
+  #   labels:
+  #     - label
+  #     - label
+  - title: Introduction to Linux Device Drivers
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Building and Running Modules
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Char Drivers
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Debugging Techniques
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Concurrency and Race Conditions
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Advanced Character Driver Operations
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Time, Delays, and Deferred Work
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Allocating Memory
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Communicating with Hardware
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Interrupt Handling
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Data Types in the kernel
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: PCI Drivers
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: USB Drivers
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: The Linux Device Model
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Memory Mapping and DMA
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Block Drivers
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Network Drivers
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: TTY Drivers
+    body-file: reading.issue.md
+    milestone: "Book: linux device drivers"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: History & Standards
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Fundamental Concepts
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: System Programming Concepts
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "File I/O: The Universal I/O Model"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "File I/O: Further Details"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Processes
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Memory Allocation
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Users & Groups
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Process Credentials
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Time
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: System Limits & Options
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: System & Process Information
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: File I/O Buffering
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: File Systems
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: File Attributes
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Extended Attributes
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Access Control Lists
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Directories and Links
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Monitoring File Events
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Signals: Fundamental Concepts"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Signals: Signal Handlers"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Signals: Advanced features"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Timers & Sleeping
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Process Creation
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Process Termination
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Monitoring Child Processes
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Program Execution
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Process Creation & Execution in more detail
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Threads: Introduction"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Threads: Thread Synchronization"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Threads: Thread Safety & Per Thread Storage"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Threads: Thread Cancellation"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Threads: Further Details"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Process Groups, Sessions & Job Control
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Process Resources
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Daemons
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Writing Secure Privileged Programs
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Capabilities
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Login Accounting
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Fundamentals of Shared Libraries
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: IPC Overview
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Pipes & FIFOs
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Introduction to System V IPC
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: System V Message Queues
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: System V Semaphores
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: System V Shared Memory
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Memory Mappings
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Virtual Memory Operations
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Introduction to POSIX IPC
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: POSIX Message Queues
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: POSIX Semaphores
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: POSIX Shared Memory
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: File Locking
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Sockets: Introduction"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Sockets: UNIX Domain"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Sockets: Fundamentals of TCP/IP Networks"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Sockets: Internet Domains"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Sockets: Server Design"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "Sockets: Advanced Topics"
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Terminals
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Alternative I/O Models
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Psuedoterminals
+    body-file: reading.issue.md
+    milestone: "Book: linux programming interface"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Introduction to Network Internals
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Critical Data Structures
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: User space to kernel interface
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: notification chains
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: network device initialization
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: the pci layer and network interface cards
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: kernel infrastructure for component initialization
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: device registration and initialization
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: interrupts and network drivers
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: frame reception
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: frame transmission
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: general and reference material about interrupts
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: protocol handlers
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "bridging: concepts"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "bridging: spanning tree protocol"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "bridging: linux implementation"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "bridging: miscellaneous topics"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "ipv4: concepts"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "ipv4: linux foundations and features"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "ipv4: forwarding and local delivery"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "ipv4: transmission"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "ipv4: handling of fragmentation"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "ipv4: miscellaneous topics"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: layer four protocols and raw ip handling
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: icmpv4
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "neigboring subsystem: concepts"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "neigboring subsystem: infrastructure"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "neigboring subsystem: ARP"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "neigboring subsystem: miscellaneous topics"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "routing: concepts"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "routing: advanced"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "routing: linux implementation"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "routing: routing cache"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "routing: routing tables"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "routing: lookups"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: "routing: miscellaneous topics"
+    body-file: reading.issue.md
+    milestone: "Book: linux network internals"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Introduction to the Linux Kernel
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Getting Started with the Kernel
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Process Management
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Process scheduling
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: system calls
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: kernel data structures
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: interrupts & interrupt handling
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: bottom halves and deferring work
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: an introdcution to kernel synchronization
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: kernel synchronization methods
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: timers and time management
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: memory management
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: The virtual file system
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: The block I/O layer
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: The Process address space
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: The page cache and page writeback
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Devices and modules
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Debugging
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Portability
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Patches, Hacking, and the community
+    body-file: reading.issue.md
+    milestone: "Book: linux kernel development"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Introduction and essential concepts
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: File I/O
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Buffered I/O
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Advanced File I/O
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Process Management
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Advanced Process Management
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Threading
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: File and Directory Management
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Memory Management
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Signals
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Time
+    body-file: reading.issue.md
+    milestone: "Book: linux system programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Introduction to POSIX Threads
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Threads
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Synchronization
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Threads Use Cases
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Advanced Threaded Programming
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: POSIX Adjusts to Threads
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Real Code
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Hints to avoid debugging
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: POSIX Mini Reference
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Future Standards
+    body-file: reading.issue.md
+    milestone: "Book: Programming with POSIX threads"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Introduction to BPF
+    body-file: reading.issue.md
+    milestone: "Book: linux observability with bpf"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - bpf
+  - title: Running BPF Programs
+    body-file: reading.issue.md
+    milestone: "Book: linux observability with bpf"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - bpf
+  - title: BPF Maps
+    body-file: reading.issue.md
+    milestone: "Book: linux observability with bpf"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - bpf
+  - title: Tracing with BPF
+    body-file: reading.issue.md
+    milestone: "Book: linux observability with bpf"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - bpf
+  - title: BPF Utilities
+    body-file: reading.issue.md
+    milestone: "Book: linux observability with bpf"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - bpf
+  - title: Linux Networking with BPF
+    body-file: reading.issue.md
+    milestone: "Book: linux observability with bpf"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - bpf
+  - title: Express Data Path
+    body-file: reading.issue.md
+    milestone: "Book: linux observability with bpf"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - bpf
+  - title: BPF Linux Kernel Security, Caps, and Seccomp
+    body-file: reading.issue.md
+    milestone: "Book: linux observability with bpf"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - bpf
+  - title: BPF use cases
+    body-file: reading.issue.md
+    milestone: "Book: linux observability with bpf"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - bpf
+  - title: Virtualization Basics
+    body-file: reading.issue.md
+    milestone: "Book: linux containers and virtualization"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - virtualization
+      - containers
+  - title: Hypervisors
+    body-file: reading.issue.md
+    milestone: "Book: linux containers and virtualization"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - virtualization
+      - containers
+  - title: Namespaces
+    body-file: reading.issue.md
+    milestone: "Book: linux containers and virtualization"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - virtualization
+      - containers
+  - title: Cgroups
+    body-file: reading.issue.md
+    milestone: "Book: linux containers and virtualization"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - virtualization
+      - containers
+  - title: Layered Filesystems
+    body-file: reading.issue.md
+    milestone: "Book: linux containers and virtualization"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - virtualization
+      - containers
+  - title: Creating a simple container framework
+    body-file: reading.issue.md
+    milestone: "Book: linux containers and virtualization"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - virtualization
+      - containers
+  - title: Why Threads?
+    body-file: reading.issue.md
+    milestone: "Book: PThreads programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Designing Threaded Programs
+    body-file: reading.issue.md
+    milestone: "Book: PThreads programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Synchronizing PThreads
+    body-file: reading.issue.md
+    milestone: "Book: PThreads programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Managing PThreads
+    body-file: reading.issue.md
+    milestone: "Book: PThreads programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: PThreads and UNIX
+    body-file: reading.issue.md
+    milestone: "Book: PThreads programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Practical Considerations of PThreads
+    body-file: reading.issue.md
+    milestone: "Book: PThreads programming"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+  - title: Booting and System Management Operations
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Access Control and Rootly Powers
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Process Control
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: The Filesystem
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Software Installation & Management
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Scripting & the Shell
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: User Management
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Cloud Computing
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Logging
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Drivers and the Kernel
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Printing
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: TCP/IP Networking
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Physical Networking
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: IP Routing
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: DNS
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: SSO
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: E-Mail
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Web Hosting
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Storage
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: NFS
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: SMB
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Configuration Management
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: CI/CD
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Security
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Monitoring
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Performance Analysis
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Data Center Basics
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Methodology, Policy, and Politics
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+  - title: Virtualization
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - virtualization
+  - title: Containers
+    body-file: reading.issue.md
+    milestone: "Book: Unix and Linux system administration handbook"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - containers
+  
+  
+  - title: From User-Land to Kernel-Land Attacks
+    body-file: reading.issue.md
+    milestone: "Book: A Guide to Kernel Exploitation"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - maldev
+  - title: Taxonomy of kernel vulnerabilities
+    body-file: reading.issue.md
+    milestone: "Book: A Guide to Kernel Exploitation"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - maldev
+  - title: Stairway to successful kernel exploitation
+    body-file: reading.issue.md
+    milestone: "Book: A Guide to Kernel Exploitation"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - maldev
+  - title: Practical UNIX kernel exploitation
+    body-file: reading.issue.md
+    milestone: "Book: A Guide to Kernel Exploitation"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - maldev
+  - title: Practical MacOS kernel exploitation
+    body-file: reading.issue.md
+    milestone: "Book: A Guide to Kernel Exploitation"
+    project: study-planning
+    labels:
+      - reading
+      - macos
+      - xnu
+      - kernel
+      - maldev
+  - title: Practical Windows kernel exploitation
+    body-file: reading.issue.md
+    milestone: "Book: A Guide to Kernel Exploitation"
+    project: study-planning
+    labels:
+      - reading
+      - windows
+      - kernel
+      - maldev
+  - title: Challenges of remote kernel exploitation
+    body-file: reading.issue.md
+    milestone: "Book: A Guide to Kernel Exploitation"
+    project: study-planning
+    labels:
+      - reading
+      - kernel
+      - maldev
+  - title: Remote kernel exploitation linux case study
+    body-file: reading.issue.md
+    milestone: "Book: A Guide to Kernel Exploitation"
+    project: study-planning
+    labels:
+      - reading
+      - linux
+      - kernel
+      - maldev
+      - case-study
+  - title: Future forms of kernel exploitation
+    body-file: reading.issue.md
+    milestone: "Book: A Guide to Kernel Exploitation"
+    project: study-planning
+    labels:
+      - reading
+      - kernel
+      - maldev
+
+
+  - title: Memory Systems Overview
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+  - title: Memory Data Structures
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+  - title: The Volatility Framework
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+  - title: Memory Acquisition
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+  - title: Windows Objects and Pool Allocations
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Processes, Handles, and Tokens
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Process Memory Internals
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Hunting Malware in Process Memory
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Event Logs
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Registry in Memory
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Networking
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Windows Services
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Kernel Forensics & Rootkits
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Windows GUI Subsystem
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Disk Artifacts in Memory
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Event Reconstruction
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Timelining
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - windows
+  - title: Linux Memory Acquisition
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - linux
+  - title: Linux Operating System
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - linux
+  - title: Processes & Process Memory
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - linux
+  - title: Networking Artifacts
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - linux
+  - title: Kernel Memory Artifacts
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - linux
+  - title: File Systems in Memory
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - linux
+  - title: Userland in Rootkits
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - linux
+  - title: Kernel-Mode Rootkits
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - linux
+  - title: Phalanx 2
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - linux
+      - case-study
+  - title: MacOS Memory Acquisition
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - macos
+  - title: MacOS Memory Overview
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - macos
+  - title: Malicious Code & Rootkits in MacOS
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - macos
+  - title: Tracking User Activity in MacOS
+    body-file: reading.issue.md
+    milestone: "Book: The Art of Memory Forensics"
+    project: study-planning
+    labels:
+      - reading
+      - memory
+      - macos
+

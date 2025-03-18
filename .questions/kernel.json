@@ -1665,5 +1665,73 @@
           }
         }
       ]
+    },
+    {
+      "question": "What is the 'shared memory' ipc technique?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "23"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
+    },
+    {
+      "question": "What is the 'mmap()' function?",
+      "options": [
+        "foo",
+        "bar",
+        "foobar",
+        "barfoo"
+      ],
+      "correct": 1,
+      "explanation": "A long is 8 bytes in Java.",
+      "metadata": [
+        {
+          "id": "1",
+          "type": ["lookup","study","experiment"],
+          "tags": [
+            "linux",
+            "kernel",
+            "2.6"
+          ],
+          "sources": {
+            "books": [
+              {
+                "type": "book",
+                "author": "oreilly/bovet+cesati",
+                "title": "understanding-the-linux-kernel",
+                "section": "ch01-introduction",
+                "page": "23"
+              }
+            ],
+            "websites": []
+          }
+        }
+      ]
     }
   ]

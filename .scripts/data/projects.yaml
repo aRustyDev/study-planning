@@ -1,0 +1,21 @@
+projects:
+  - name: "Book: linux device drivers"
+    description: Project Description
+    body: Project Body
+    columns:
+      - name: Column Name
+        description: Column Description
+        options:
+          - name: Option 1
+            description: Option 1 Description
+          - name: Option 2
+            description: Option 2 Description
+  - name: "Book: linux programming interface"
+  - name: "Book: linux network internals"
+  - name: "Book: linux kernel development"
+  - name: "Book: linux system programming"
+  - name: "Book: programming with posix threads"
+  - name: "Book: linux observability with bpf"
+  - name: "Book: linux containers and virtualization"
+  - name: "Book: pthreads programming"
+  - name: "Book: unix and linux system administration handbook"
