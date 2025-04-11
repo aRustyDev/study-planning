@@ -1,0 +1,65 @@
+books:
+- title: "Macroeconomics"
+  edition: 10
+  authors: 
+    - "N. Gregory Mankiw"
+  url: "https://www.amazon.com/dp/1319105998"
+  isbn: 
+    - "1319105998"
+    - "978-1319105990"
+  publisher: "Worth Publishers"
+- title: "Basic Economics"
+  edition: "1"
+  authors: 
+    - "Thomas Sowell"
+  url: "https://www.amazon.com/Basic-Economics-Thomas-Sowell/dp/0465060730"
+  isbn: 
+    - "9780465060733"
+    - "978-0465060733"
+  publisher: "Basic Books"
+- title: "Freakonomics"
+  edition: "1"
+  authors: 
+    - "Steven Levitt"
+  url: "https://www.amazon.com/Freakonomics-Revised-Expanded-Economist-Everything/dp/0063032376"
+  isbn: 
+    - "0063032376"
+    - "978-0063032378"
+  publisher: "William Morrow Paperbacks"
+- title: "The Economists Hour"
+  edition: "1"
+  authors: 
+    - "Binyamin Appelbaum"
+  url: "https://www.amazon.com/Economists-Hour-Prophets-Markets-Fracture/dp/031651232X"
+  isbn: 
+    - "031651232X"
+    - "978-0316512329"
+  publisher: "Little, Brown and Company"
+- title: "Thinking Strategically"
+  edition: "1"
+  authors: 
+    - "Avinash K. Dixit"
+    - "Barry J. Nalebuff"
+  url: "https://www.amazon.com/Thinking-Strategically-Competitive-Business-Politics/dp/0393029239"
+  isbn: 
+    - "0393029239"
+    - "978-0393029239"
+  publisher: "W W Norton & Co Inc"
+- title: "Principles of Microeconomics"
+  edition: "8"
+  authors: 
+    - "N. Mankiw"
+  url: "https://www.amazon.com/Principles-Microeconomics-N-Gregory-Mankiw/dp/1305971493"
+  isbn: 
+    - "1305971493"
+    - "978-1305971493"
+  publisher: "Cengage Learning"
+- title: ""
+  edition: "1"
+  authors: 
+    - ""
+  url: ""
+  isbn: 
+    - ""
+    - ""
+  publisher: ""
