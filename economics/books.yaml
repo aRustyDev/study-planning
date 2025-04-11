@@ -54,6 +54,85 @@ books:
     - "1305971493"
     - "978-1305971493"
   publisher: "Cengage Learning"
+- title: "The Wealth of Nations"
+  edition: "1"
+  authors: 
+    - "Adam Smith"
+  url: "https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1494844737"
+  isbn: 
+    - "1494844737"
+    - "978-1494844738"
+  publisher: ""
+- title: "Capital: A Critique of Political Economy, Volume 1"
+  edition: "1"
+  authors: 
+    - "Karl Marx"
+    - "Ben Fowkes"
+    - "Ernest Mandel"
+  url: "https://www.amazon.com/Capital-Critique-Political-Economy-Classics/dp/0140445684"
+  isbn: 
+    - "0140445684"
+    - "978-0140445688"
+  publisher: "Penguin Classics"
+- title: "Capital: A Critique of Political Economy, Volume 2"
+  edition: "1"
+  authors: 
+    - "Karl Marx"
+    - "Ben Fowkes"
+    - "Ernest Mandel"
+  url: "https://www.amazon.com/Capital-Critique-Political-Economy-Classics/dp/0140445692"
+  isbn: 
+    - "0140445692"
+    - "978-0140445695"
+  publisher: "Penguin Classics"
+- title: "Capital: A Critique of Political Economy, Volume 3"
+  edition: "1"
+  authors: 
+    - "Karl Marx"
+    - "Ben Fowkes"
+    - "Ernest Mandel"
+  url: "https://www.amazon.com/Capital-Critique-Political-Economy-Classics/dp/0140445706"
+  isbn: 
+    - "0140445706"
+    - "978-0140445701"
+  publisher: "Penguin Classics"
+- title: "Capitalism and Freedom"
+  edition: "1"
+  authors: 
+    - "Milton Friedman"
+    - "Binyamin Appelbaum"
+  url: "https://www.amazon.com/Capitalism-Freedom-Milton-Friedman/dp/022673479X"
+  isbn: 
+    - "022673479X"
+    - "978-0226734798"
+  publisher: "University of Chicago Press"
+- title: "The General Theory of Employment, Interest, and Money"
+  edition: "1"
+  authors: 
+    - "John Maynard Keynes"
+  url: "https://www.amazon.com/General-Theory-Employment-Interest-Money/dp/0156347113"
+  isbn: 
+    - "0156347113"
+    - "978-0156347112"
+  publisher: "Harper Business"
+- title: "Human Action: A Treatise on Economics"
+  edition: "1"
+  authors: 
+    - "Ludwig Von Mises"
+  url: "https://www.amazon.com/Human-Action-Ludwig-Von-Mises/dp/1614273545"
+  isbn: 
+    - "1614273545"
+    - "978-1614273547"
+  publisher: "Martino Fine Books"
+- title: ""
+  edition: "1"
+  authors: 
+    - ""
+  url: ""
+  isbn: 
+    - ""
+    - ""
+  publisher: ""
 - title: ""
   edition: "1"
   authors: 
